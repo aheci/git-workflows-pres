@@ -1,7 +1,9 @@
 ---
 title: Scope
-chapter: Scope
+chapter: Global Framework
 ---
+# What is a sub .git repo?
+
 Unlike other programming languages, JavaScript only has **function scope**, not
 block scope. In the following example, all variables are visible throughout the
 function:

@@ -1,6 +1,6 @@
 ---
-title: JavaScript Basics
-toc: Title
+title: Version Control
+toc: Introduction
 chapter: Intro
 layout: Center
 style: |
@@ -13,21 +13,49 @@ style: |
     margin-bottom: 50px;
     text-align: center;
   }
+  img {
+    width: 100%;
+    border: 2px solid #dadada;
+    border-radius: 6px;
+  }
 scale:
   content_width: 39
   column_width: 0.6
 ---
-A quick introduction to basic and important concepts of JavaScript
+### Disclosures:
 
-Use the arrow keys (**&larr;, &rarr;**) to navigate through the page.
+I'm not here to sell you on Git or GitHub.  It's pretty much all I've ever used, and all I've ever needed, so I can't personally compare and contrast for you.  I've had no reason to shop around.
 
-You should use Google Chrome and make yourself
+I'm super lazy.  99.9% of this material is not original and has been borrowed by very smart reputable sources.  A listing of resources can be found at the end of this presentation.
+
+## What is Git?
+If you Google "What is git?" the first thing you will find is: 
+
+> An unpleasant or contemptible person.
+
+Thankfully that's not the type of git we're talking about today, as long as we keep Zach from speaking
+<i class="fa fa-smile-o" aria-hidden="true"></i>
+
+- The most widely used modern version control system in the world
+- Performance - distributed architecture.  Everyone has a full copy to work with anytime and anywhere
+- Smart - does not rely on file names for tracking, tracks contents
+- Secure - uses a secure hashing algorithm called SHA1.  Difficult to tamper with the history
+- Flexible - numerous workflows to choose
+- Frustrating - it can be frustrating and *scary* to learn
+
+<img src="./wtf-git.png" />
+The only appropriate commit message in this situation?
+
+> Well, that got crazy
+
+### Each Section Contains
+- What if scenario
+- Without branching strategy
+- With branching strategy
+
+
+<!-- You should use Google Chrome and make yourself
 familiar with the [developer tools][], especially with the console.
-You will need it for the exercises.
+You will need it for the exercises. -->
 
----
 
-## Contribute
-
-Found a problem with style or content? Or do you have suggestions for improving
-the content?  Please [file an issue on GitHub][jsbasics-issues].

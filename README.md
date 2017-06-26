@@ -1,16 +1,9 @@
-# jsbasics
+# Exerslide template stolen from
+https://github.com/fkling/jsbasics
 
-An interactive introduction to basic and important concepts of JavaScript.  
-Topics currently covered:
+# Git Basics
 
-- variables
-- data types
-- expressions and statements
-- scope
-- `this`
-- constructors and prototypes
-
-The presentation is being updated to include references to ES2015+ features.
+An explanation of git workflows & insight into why we do what we do.
 
 ---
 

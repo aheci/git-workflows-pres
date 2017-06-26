@@ -1,6 +1,6 @@
 ---
-title: Operators
-chapter: Expressions & Statements
+title: Commit Messages
+chapter: Commit Messages
 ---
 
 Like many C-like programming languages, most operators JavaScript are binary or
