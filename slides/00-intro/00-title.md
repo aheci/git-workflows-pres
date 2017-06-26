@@ -41,7 +41,7 @@ scale:
 <div class="disclosure">
 
 #### Disclosure:
-I'm super lazy.  99.9% of this material is not original and has been borrowed by very smart reputable sources.  A listing of resources can be found at the end of this presentation.
+I'm super lazy.  99.9% of this material is not original and has been borrowed from reputable sources.  A listing of resources can be found at the end.
 
 </div>
 

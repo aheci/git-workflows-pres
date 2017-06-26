@@ -11,8 +11,9 @@ style: |
 ---
 
 ### So many options
-There are so many possible workflows & ways to break those workflows
-<i class="fa fa-frown-o" aria-hidden="true"></i>.  It can quickly lead to frustration.  It takes some time to get it right.
+There are so many ways to work with and to break Git - <i class="fa fa-frown-o" aria-hidden="true"></i>
+
+Just Kidding it's pretty hard to *actually* break it.  But it can quickly lead to frustration until you get it.
 
 ### The most common workflows
 - Centralized
@@ -20,4 +21,4 @@ There are so many possible workflows & ways to break those workflows
 - Gitflow
 - Forking
 
-All of these workflows really just boil down to different ways for developers to share and isolate code.
+All of these options really just boil down to different ways for developers to share and isolate code.

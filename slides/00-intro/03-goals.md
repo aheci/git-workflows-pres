@@ -20,7 +20,7 @@ After this presentation I hope we have a better understanding of our GitHub work
 - Keep the playground clean: If you merge the branch, you delete the branch
 - Let your commit speak for itself - One message per feature before merged
 - Isolate changes - one feature per branch
-- Master is the bible - this is always a representation of what is live NOW.  Deploying it should never introduce any unexpected features
+- Master is production - this is always a representation of what is live NOW.  Deploying it should never introduce any unexpected features
 - Friends don't let friends overwrite each others code - QA builds are done from core-dev
 
 <div class="workflow-image">

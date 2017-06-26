@@ -146,6 +146,7 @@ body {
   margin-top: 0;
   flex-shrink: 0;
   text-align: center;
+  color: #E40046;
 }
 
 .exerslide-slide h1:focus,

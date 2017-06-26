@@ -26,11 +26,11 @@ Why does it matter how we name our feature branches?
 
 Think about this scenario:
 
-> Cody & Chris are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
+> Dev Two & Dev Three are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
   
-Flo & Shaun are on their own & stakeholders are standing at their desks demanding to know why this fix isn't live yet.  They each have their own deliverables for this sprint and haven't been in touch with the progress on this issue.
+Dev One & Dev Four are on their own & stakeholders are standing at their desks demanding to know why this fix isn't live yet.  They each have their own deliverables for this sprint and haven't been in touch with the progress on this issue.
 
-What are the consequences of this branch being named `cody-branch-50` and the project containing 50 other similarly named branches?
+What are the consequences of this branch being named `dev-branch-50` and the project containing 50 other similarly named branches?
 
 <div class="workflow-image">
 <img src="./angry-emoji.jpeg" /> x2

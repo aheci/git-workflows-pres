@@ -24,7 +24,7 @@ style: |
 ---
 Name that Branch!
 
-> Cody & Chris are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
+> Dev Two & Dev Three are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
 
 Based on this limited information, a better name for this branch would've been `hotfix-program-template-bug`
   
