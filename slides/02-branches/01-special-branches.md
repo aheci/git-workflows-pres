@@ -4,6 +4,13 @@ title: Namespacing Branches
 
 "Special" branches are branches that are reserved for very specific purposes.  It is usually painful when usage of these branches deviate from their intended usage, avoid this through documentation and naming.
 
+<div class="callout warning">
+
+  <i class="fa fa-info-circle" aria-hidden="true"></i> **That's Smelly! Signs you have a problem**
+  
+  Special branches should never be *behind* master.  When we update master we are responsible for updating the other special branches as well.
+</div>
+
 On the marketing sites we have:
 - `master` this branch is sacred and is reserved for code that has been tested, approved by QA, and cleared for release by stakeholders.  There should be zero risk in deploying this branch.
 - `hko-[environment]` branches

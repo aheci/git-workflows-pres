@@ -1,5 +1,5 @@
 ---
-title: Naming Feature Branches
+title: Feature Branch Naming
 style: |
   .exerslide-slide .Center-wrapper {
     text-align: left;
@@ -22,16 +22,20 @@ style: |
   }
 ---
 ---
-Why does it matter how we name our feature branches?
-
-Think about this scenario:
+Name that Branch!
 
 > Cody & Chris are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
+
+Based on this limited information, a better name for this branch would've been `hotfix-program-template-bug`
   
-Flo & Shaun are on their own & stakeholders are standing at their desks demanding to know why this fix isn't live yet.  They each have their own deliverables for this sprint and haven't been in touch with the progress on this issue.
+<div class="callout primary">
 
-What are the consequences of this branch being named `cody-branch-50` and the project containing 50 other similarly named branches?
+<i class="fa fa-info-circle" aria-hidden="true"></i> Bonus Points
 
-<div class="workflow-image">
-<img src="./angry-emoji.jpeg" /> x2
+If our projects are organized in a system that provides ticket, task, or issue numbers - we should use that number in our branch name for easy reference.
+
+```
+git checkout -b `#78478-hotfix-program-template-bug`
+```
+
 </div>

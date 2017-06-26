@@ -13,7 +13,7 @@ We must keep the playground clean.  After you merge a PR - please be kind and pr
 
 <div class="callout warning">
 
-**Fooled Me! Location matters**
+<i class="fa fa-info-circle" aria-hidden="true"></i> **Fooled Me! Location matters**
 
 When creating a branch it *matters* where you are in your repo.  
 

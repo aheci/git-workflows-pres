@@ -18,15 +18,23 @@ style: |
     border: 2px solid #dadada;
     border-radius: 6px;
   }
+  .disclosure {
+    font-size: 14px;
+    color: #575757;
+  }
 scale:
   content_width: 39
   column_width: 0.6
 ---
-### Disclosures:
 
-I'm not here to sell you on Git or GitHub.  It's pretty much all I've ever used, and all I've ever needed, so I can't personally compare and contrast for you.  I've had no reason to shop around.
+---
+<div class="disclosure">
 
+#### Disclosure:
 I'm super lazy.  99.9% of this material is not original and has been borrowed by very smart reputable sources.  A listing of resources can be found at the end of this presentation.
+
+</div>
+---
 
 ## What is Git?
 If you Google "What is git?" the first thing you will find is: 
@@ -48,14 +56,5 @@ The only appropriate commit message in this situation?
 
 > Well, that got crazy
 
-### Each Section Contains
-- What if scenario
-- Without branching strategy
-- With branching strategy
-
-
-<!-- You should use Google Chrome and make yourself
-familiar with the [developer tools][], especially with the console.
-You will need it for the exercises. -->
 
 

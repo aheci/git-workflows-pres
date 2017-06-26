@@ -13,3 +13,5 @@ title: Resources
 - [GitHub Flow - Workflow Explanation](https://guides.github.com/introduction/flow/)
 
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+- [Value of Code Reviews](https://www.atlassian.com/agile/code-reviews)
