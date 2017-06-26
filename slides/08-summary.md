@@ -2,6 +2,8 @@
 title: Summary
 ---
 
+---
+
 There's so much more we could cover to better leverage GitHub to help us do more.
 
 These topics could deserve their own time & attention in the future

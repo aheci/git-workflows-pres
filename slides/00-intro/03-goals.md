@@ -12,6 +12,9 @@ style: |
     margin-bottom: 50px;
   }
 ---
+
+---
+
 After this presentation I hope we have a better understanding of our GitHub workflow & why each of these commitments are important:
 - Don't be a bus factor: we will use sensible branch names & commit messages
 - Keep the playground clean: If you merge the branch, you delete the branch

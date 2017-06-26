@@ -21,9 +21,12 @@ style: |
     margin-right: auto;
   }
 ---
+
+---
+
 A code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-Some of the features of GitHub
+#### Features
 
 - Repositories 
 - Forking
