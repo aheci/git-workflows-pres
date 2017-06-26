@@ -2,6 +2,8 @@
 title: Namespacing Branches
 ---
 
+---
+
 "Special" branches are branches that are reserved for very specific purposes.  It is usually painful when usage of these branches deviate from their intended usage, avoid this through documentation and naming.
 
 <div class="callout warning">
@@ -17,7 +19,7 @@ On the marketing sites we have:
   1. These branches are reserved for code compiled by grunt tasks
   2. Our Heroku environments "listen" to these branches and automatically rebuild the sites when updates are made to them
   3. files should never be directly edited in these branches - Why?
-- `core-[group]` branches
+- `core-[who]` branches
   1. These branches are to aggregate types of features (described as the develop branch in the workflows we covered)
   2. You should avoid working in these branches directly and instead submit a PR the one that meets your needs
     - `core-seo` kept in sync with master and is a place for the SEO team to make content and meta data updates that can go live independent of any other features currently being developed

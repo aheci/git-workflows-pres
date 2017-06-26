@@ -1,9 +1,11 @@
 module.exports = [
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/00-title.md"),
-require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/01-github.md"),
+require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/01-git.md"),
+require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/02-git-frustration.md"),
+require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/02-github.md"),
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/00-intro/03-goals.md"),
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/00-intro.md"),
-require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/01-example.js.md"),
+require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/01-example.md"),
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/02-centralized.md"),
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/03-feature-branch.md"),
 require("/Users/amandahecimovich/sites/jsbasics/node_modules/exerslide/lib/slide-loader!../slides/01-workflows/04-gitflow.md"),

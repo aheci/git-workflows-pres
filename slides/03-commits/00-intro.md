@@ -3,6 +3,8 @@ title: Commit Messages
 chapter: Commits
 ---
 
+---
+
 ### Feature in progress commit messages
 
 - frequent

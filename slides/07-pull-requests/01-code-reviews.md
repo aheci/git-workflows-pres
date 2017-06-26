@@ -1,6 +1,14 @@
 ---
 title: Code Reviews
+style: |
+ .caption {
+    font-size: 16px;
+    color: #575757;
+ }
 ---
+
+---
+
 When a developer is finished working on an issue, another developer looks over the code and considers questions like:
 
 - Are there any obvious logic errors in the code?
@@ -11,5 +19,8 @@ When a developer is finished working on an issue, another developer looks over t
 - Do I understand how this code works?
 
 ---
+<div class="caption">
 
 Performing a code review is **not** reserved for only managers or leads. Code reviews can be done by peers, managers, spectators, whoever.  This is a chance for anyone who is interested in the code base to gain an understanding of changes that are happening to it or protect against possible issues that may arise from contributed code.
+
+</div>

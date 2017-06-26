@@ -8,10 +8,17 @@ style: |
   .exerslide-slide h1 {
     text-align: center;
   }
+  h3 {
+    font-weight: bold;
+    font-size: 120%;
+  }
 ---
-Let's review each of the following workflows with this scenario in mind:
 
-**What If?**
+---
+
+Let's review each of the following workflows with the following scenario in mind:
+
+### What If?
 
 - Shaun is half way through working on a complex optimization task that has required a lot of back and forth with QA
 - Cody & Chris are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?

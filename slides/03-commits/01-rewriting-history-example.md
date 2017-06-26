@@ -1,6 +1,9 @@
 ---
 title: Example - Rewriting History
 ---
+
+---
+
 ```
 git checkout core-dev
 git pull origin core-dev

@@ -33,10 +33,7 @@ Some of the features of GitHub
 - Issue tracking
 - Code reviews
 
-### Why do we need a strategy for how to work in GitHub?
-We're all trying to do a lot at once.  Keeping up with demands requires us to multitask in a way that doesn't step on each others toes, or lock down the code base preventing critical updates from making it to production quickly.
-
-<div class="callout warning">
+<div class="callout secondary">
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> **Fooled Me! Don't track that**
 

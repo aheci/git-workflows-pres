@@ -1,7 +1,14 @@
 ---
 title: Rebasing Disclosure
+style: |
+  img {
+    margin-bottom: 20px;
+  }
 ---
-I want to be honest.  This is a little scary at first.
+
+---
+
+I want to be honest.  This was very scary at first.
 Missing parts of the previous instructions is what led to this gem:
 
 <img src="./wtf-git.png" />

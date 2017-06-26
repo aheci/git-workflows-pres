@@ -1,9 +1,17 @@
 ---
 title: Introduction to Workflows
 chapter: Popular Workflows
+style: |
+  h3 {
+    font-weight: bold;
+    font-size: 120%;
+  }
 ---
+
+---
+
 ### So many options
-Flexibility can also be a point of frustration. There are so many possible workflows & ways to break those workflows
+There are so many possible workflows & ways to break those workflows
 <i class="fa fa-frown-o" aria-hidden="true"></i>.  It can quickly lead to frustration.  It takes some time to get it right.
 
 ### The most common workflows

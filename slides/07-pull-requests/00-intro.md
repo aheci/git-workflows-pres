@@ -2,6 +2,9 @@
 title: Pull Requests
 chapter: Pull Requests
 ---
+
+---
+
 If you agree with the following statements, it's time to submit a pull request
 
 - Your feature functions beautifully
