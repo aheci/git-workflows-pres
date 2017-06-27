@@ -53,7 +53,7 @@ According to Google:
 > An unpleasant or contemptible person.
 
 <div class="split">
-Thankfully that's not the type of git we're talking about today, as long as we keep Zach from speaking
+Thankfully that's not the type of git we're talking about today, even if Zach tells you otherwise.
 </div>
 <img src="./troll.jpg" />
 

@@ -32,7 +32,7 @@ style: |
 
 - The most widely used modern version control system in the world
 - Performance - distributed architecture.  Everyone has a full copy to work with anytime and anywhere
-- Secure - uses a secure hashing algorithm called SHA1.  Difficult to tamper with the history
+- Secure - uses a secure hashing algorithm called SHA1.  Difficult to tamper with history
 - Flexible - numerous workflows to choose
 - Frustrating - too much flexibility?
 

@@ -20,13 +20,20 @@ style: |
     margin-right: auto;
     margin-bottom: 50px;
   }
+  .fa-question {
+    color: #E40046;
+  }
 ---
 ---
 Why does it matter how we name our feature branches?
 
 Think about this scenario:
 
-> Dev Two & Dev Three are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
+> Dev Two & Dev Three are working together on an update to the program page template that fixes a bug in production
+
+<i class="fa fa-question fa-lg"></i> What if suddenly these two are out of the office and unavailable?
+
+>They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
   
 Dev One & Dev Four are on their own & stakeholders are standing at their desks demanding to know why this fix isn't live yet.  They each have their own deliverables for this sprint and haven't been in touch with the progress on this issue.
 

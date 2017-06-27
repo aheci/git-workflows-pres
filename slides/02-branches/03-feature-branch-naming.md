@@ -26,7 +26,7 @@ Name that Branch!
 
 > Dev Two & Dev Three are working together on an update to the program page template that fixes a bug in production.  They're almost done but go to lunch and eat Pho, run from the table holding their stomachs and we don't hear from them again for three days?
 
-Based on this limited information, a better name for this branch would've been `hotfix-program-template-bug`
+Based on this limited information, what would've been a better name for this branch?
   
 <div class="callout primary">
 
@@ -35,7 +35,7 @@ Based on this limited information, a better name for this branch would've been `
 If our projects are organized in a system that provides ticket, task, or issue numbers - we should use that number in our branch name for easy reference.
 
 ```
-git checkout -b `#78478-hotfix-program-template-bug`
+git checkout -b `#[ticket]-[descriptive-branch-name]`
 ```
 
 </div>

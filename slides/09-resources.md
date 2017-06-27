@@ -17,3 +17,5 @@ title: Resources
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 - [Value of Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+- [Additional Details on Rebase and Squash](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
